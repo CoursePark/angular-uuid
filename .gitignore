@@ -1,0 +1,10 @@
+# Blacklist Every File
+*
+
+# Whitelist Top-level Files
+!.gitignore 
+!README.md
+!LICENSE
+!package.json
+!uuid.js
+!uuid.min.js
